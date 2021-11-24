@@ -71,7 +71,7 @@ select earth_distance(
 
 * [https://start.spring.io/](https://start.spring.io/)
 
-+ Java 8
++ Java 11
 + Gradle Project
 + Jar
 + Spring Web
