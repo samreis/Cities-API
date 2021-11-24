@@ -4,7 +4,7 @@
 
 * Linux
 * Git
-* Java 8
+* Java 11
 * Docker
 * IntelliJ Community
 * Heroku CLI
