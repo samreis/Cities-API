@@ -1,4 +1,4 @@
-package com.github.samreis.citiesapi.staties;
+package com.github.samreis.citiesapi.states;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
